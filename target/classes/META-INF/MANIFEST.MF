@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Pricing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nikhil.m
+Implementation-Vendor-Id: Pricing
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/Pricing/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

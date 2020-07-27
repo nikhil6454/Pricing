@@ -1,0 +1,12 @@
+{"products":[{"product":"cycle1",
+   "components":{
+ 	  "frame":{"type":"alluminium","date":"2020-01-02"},
+   	  "seat" :{"type":"sports","date":"2020-01-01"}
+    }
+},
+{"product":"cycle2",
+    "components":{
+       "frame":{"type":"Steel","date":"2020-01-02"},
+       "seat" :{"type":"sports","date":"2020-01-01"}
+     }
+}]}
